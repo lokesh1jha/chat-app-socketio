@@ -17,29 +17,4 @@
 
 ---
 
-### Screenshot
-
-Login screen
-![Login](/img/3.png 'Login')
-
-Register Screen
-![Register](/img/4.png 'Register')
-
-Chat screen
-![Chat](/img/1.png 'Chat')
-
-Chat screen
-![Chat](/img/2.png 'Chat')
-
-Search for others
-![Chat](/img/5.png 'Chat')
-
-Typing indicator
-![Chat](/img/6.png 'Chat')
-
-Responsive
-![Chat](/img/7.png 'Chat')
-
----
-
 A pet projects created when learning React and MongoDB and reviewing NodeJS.
